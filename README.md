@@ -1,1 +1,2 @@
 # Tic-Tac-Toe
+I successfully completed a Tic-Tac-Toe game using HTML, CSS, and JavaScript. The game features a 3x3 grid where two players take turns placing X or O. The objective is to get three marks in a row, column, or diagonal to win. I used JavaScript to manage game logic, player turns, and win detection, while CSS enhances the visual appeal. This project helped me improve my skills in event handling, DOM manipulation, and interactive web development.
